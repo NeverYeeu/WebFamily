@@ -1,0 +1,66 @@
+#web-background{
+	/* background: url("https://i.postimg.cc/Nf5kkcRS/hoa-tuong-trung-cho-su-biet-on-600x400.jpg"); */
+	position: fixed;	
+	top: 0; right: 0; left: 0; bottom: 0;
+	background-repeat: no-repeat;
+}
+.web-column{
+	width: 1000px;
+	margin: 0 auto;
+}
+#web-head{
+	position: relative;
+	
+	/* padding: 20px 0;  */
+}
+#web-head > p{
+	position: absolute;
+	top: 50%; left: 10%;
+	transform: translateY(-50%);
+	color: #f41e1e;
+	text-align: center;
+	font-size: 38px;
+	font-weight: 800;
+	text-shadow: 1px 2px 4px #000;
+}
+.loi-chuc{
+	margin-top: 20px;
+	display: flex;
+	width: 100%;
+	gap: 2px;
+}
+.loi-chuc img{
+	width: 100%; height: 200px;
+	border: 2px solid rgb(6, 171, 180);
+	border-top-left-radius: 40px;
+	border-bottom-right-radius: 40px;
+	object-fit: cover;
+}
+.web-content{
+	margin: 30px 0;
+}
+.year-images{
+	margin: 20px 0;
+}
+.year-images > span{
+	display: block;
+	font-size: 24px;
+	border: 1px solid red;
+	padding: 20px 12px;
+	color: #ddd;
+	background-color: #2b2828;
+}
+.box-image{
+	column-count: 5; 
+	margin-top: 20px;
+}
+.image-family img{
+	width: 100%;
+	height: auto;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	margin-top: 12px;
+}
+.image-family img:hover{
+	transform: translateY(-6px);
+}

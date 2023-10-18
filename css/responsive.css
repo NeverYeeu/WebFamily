@@ -1,0 +1,12 @@
+@media only screen and (max-width: 480px) {
+	.web-column{
+		width: 100%;
+	}
+	#web-head > p{
+		left: 0%;
+	}
+	.box-image{
+		column-count: 2;
+		padding: 12px 8px;
+	}
+}
