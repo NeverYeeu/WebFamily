@@ -25,18 +25,19 @@ const y2021 = [
 	{img: "https://i.postimg.cc/5twy7PSW/y-2021-9.jpg"},
 ]
 const y2022 = [
-	{img: "https://i.postimg.cc/9fbt03LJ/y-2022-1.jpg"},
-	{img: "https://i.postimg.cc/grb644Mx/y-2022-10.jpg"},
-	{img: "https://i.postimg.cc/XJh5Bndc/y-2022-11.jpg"},
-	{img: "https://i.postimg.cc/CMXXCtgc/y-2022-12.jpg"},
-	{img: "https://i.postimg.cc/BbLxmj4V/y-2022-2.jpg"},
-	{img: "https://i.postimg.cc/sX0YPYdW/y-2022-3.jpg"},
-	{img: "https://i.postimg.cc/W1PM7pK5/y-2022-4.jpg"},
-	{img: "https://i.postimg.cc/MZN0vmY2/y-2022-5.jpg"},
-	{img: "https://i.postimg.cc/7Yz37JBC/y-2022-6.jpg"},
-	{img: "https://i.postimg.cc/R0SKjsvf/y-2022-7.jpg"},
-	{img: "https://i.postimg.cc/t4tFvQGp/y-2022-8.jpg"},
-	{img: "https://i.postimg.cc/tJxxh8z0/y-2022-9.jpg"},
+	{img: "../img/y_2022(1).jpg"},
+	{img: "../img/y_2022(2).jpg"},
+	{img: "../img/y_2022(3).jpg"},
+	{img: "../img/y_2022(4).jpg"},
+	{img: "../img/y_2022(5).jpg"},
+	{img: "../img/y_2022(6).jpg"},
+	{img: "../img/y_2022(7).jpg"},
+	{img: "../img/y_2022(8).jpg"},
+	{img: "../img/y_2022(9).jpg"},
+	{img: "../img/y_2022(10).jpg"},
+	{img: "../img/y_2022(11).jpg"},
+	{img: "../img/y_2022(12).jpg"},
+	
 ]
 const y2023 = [
 	{img: "https://i.postimg.cc/NMStHjD4/y-2023-1.jpg"},
