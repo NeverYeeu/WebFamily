@@ -12,7 +12,10 @@ boxImages[0].innerHTML = images[3].map(renderImage).join('');
 boxImages[1].innerHTML = images[2].map(renderImage).join('');
 boxImages[2].innerHTML = images[1].map(renderImage).join('');
 boxImages[3].innerHTML = images[0].map(renderImage).join('');
-
+const boxComment = $('.web-comment');
+function renderComment(){
+	
+}
 function renderImage(item) {
 	let {img} = item;
 	return (`

@@ -25,9 +25,9 @@ const y2021 = [
 	{img: "https://i.postimg.cc/5twy7PSW/y-2021-9.jpg"},
 ]
 const y2022 = [
-	{img: "../img/y_2022(1).jpg"},
-	{img: "../img/y_2022(2).jpg"},
-	{img: "../img/y_2022(3).jpg"},
+	{img: "img/y_2022(1).jpg"},
+	{img: "/img/y_2022(2).jpg"},
+	{img: "./img/y_2022(3).jpg"},
 	{img: "../img/y_2022(4).jpg"},
 	{img: "../img/y_2022(5).jpg"},
 	{img: "../img/y_2022(6).jpg"},
