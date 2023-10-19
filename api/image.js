@@ -28,7 +28,7 @@ const y2022 = [
 	{img: "img/y_2022(1).jpg"},
 	{img: "/img/y_2022(2).jpg"},
 	{img: "./img/y_2022(3).jpg"},
-	{img: "../img/y_2022(4).jpg"},
+	{img: "//img/y_2022(4).jpg"},
 	{img: "../img/y_2022(5).jpg"},
 	{img: "../img/y_2022(6).jpg"},
 	{img: "../img/y_2022(7).jpg"},
